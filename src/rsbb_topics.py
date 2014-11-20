@@ -1,9 +1,10 @@
+#!/usr/bin/python
 #topic types and corresponding names for the @Home referee box communication are listed here
 
 from roah_rsbb_comm_ros.msg import Benchmark
-from std_msgs.msg Empty
+from std_msgs.msg import Empty
 from roah_rsbb_comm_ros.msg import DevicesState
-from from geometry_msgs.msg import Pose2D
+from geometry_msgs.msg import Pose2D
 from roah_rsbb_comm_ros.msg import TabletState
 from std_msgs.msg import UInt32
 from roah_rsbb_comm_ros.msg import BenchmarkState
