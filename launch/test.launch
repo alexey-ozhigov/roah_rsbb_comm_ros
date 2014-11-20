@@ -1,6 +1,6 @@
 <launch>
-  <arg name="team_name" default="TestingTeam"/>
-  <arg name="robot_name" default="TestingRobot"/>
+  <arg name="team_name" default="b-it-bots"/>
+  <arg name="robot_name" default="b-it-bots"/>
   <arg name="rsbb_host" default="10.0.0.1"/>
   <arg name="rsbb_port" default="6666"/>
   <arg name="rsbb_key" default="PASSWORD"/>
